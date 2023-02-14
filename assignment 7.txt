@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width= initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>html</h1> 
+    <p>
+       <a href = "fsfdnew.html" target = "_blank">touch this link </a>
+        HTML stands for Hyper Text Markup Language
+        HTML is the standard markup language for creating Web pages
+        HTML describes the structure of a Web page
+        HTML consists of a series of elements
+        HTML elements tell the browser how to display the content
+        HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+              
+            
+           </p>
+
+    <h1>CSS</h1>
+    <p>
+       
+        Cascading Style Sheets (CSS) is used to format the layout of a webpage.
+
+With CSS, you can control the color, font, the size of text, the spacing between elements, how elements are positioned and laid out, what background images or background colors are to be used, different displays for different devices and screen sizes, and much more!
+            </p>
+</body>
+</html>

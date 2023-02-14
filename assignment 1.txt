@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+
+<html>
+
+<body>
+    <table border="1" cellpadding = "5">
+        <caption>student timetable</caption>
+
+        <tr>
+
+            <th>days</th>
+            <th> 1st period</th>
+            <th>2nd period</th>
+            <th> snacks break</th>
+            <th> 3rd period</th>
+            <th> 4th period</th>
+            <th> Lunch break</th>
+            <th>5th period </th>
+
+
+        </tr>
+
+        <tr>
+            <td>monday</td>
+           <td>maths</td>
+           <td>english</td>
+           <td> </td>
+           <td>english</td>
+           <td>science</td>
+           <td> </td>
+           <td>pt</td>
+        </tr>
+        <tr>
+            <td>tuesday</td>
+            <td>maths</td>
+            <td>english</td>
+            <td> </td>
+            <td>english</td>
+            <td>science</td>
+            <td> </td>
+            <td>pt</td>
+         </tr>
+         <tr>
+            <td>wednesday</td>
+            <td>maths</td>
+            <td>english</td>
+            <td> </td>
+            <td>english</td>
+            <td>science</td>
+            <td> </td>
+            <td>pt</td>
+         </tr>
+         <tr>
+            <td>thursday</td>
+            <td>maths</td>
+            <td>english</td>
+            <td> </td>
+            <td>english</td>
+            <td>science</td>
+            <td> </td>
+            <td>pt</td>
+         </tr>
+         <tr>
+            <td>friday</td>
+            <td>maths</td>
+            <td>english</td>
+            <td> </td>
+            <td>english</td>
+            <td>science</td>
+            <td> </td>
+            <td>pt</td>
+         </tr>
+    </table>
+</body>
+
+</html>
